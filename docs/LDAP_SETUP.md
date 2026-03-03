@@ -4,7 +4,7 @@
 This document describes the initial process of installing and configuring OpenLDAP on a Linux system. The goal was to set up a basic directory service for future authentication labs.
 
 ## Environment
-* **OS**: Linux (Ubuntu/Debian)
+* **OS**: Linux (Ubuntu)
 * **Service**: OpenLDAP (slapd)
 
 ## Installation Steps
