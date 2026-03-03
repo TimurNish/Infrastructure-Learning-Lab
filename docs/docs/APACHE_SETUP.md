@@ -20,4 +20,5 @@ The script performs the following actions:
 ### How to run the script:
 ```bash
 chmod +x scripts/setup_apache.sh
+ 
 ./scripts/setup_apache.sh
